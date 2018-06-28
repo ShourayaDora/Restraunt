@@ -10,8 +10,11 @@ body{
 	border: 0;
 }
 #logo-img{
-	background: url(nss logo.png') no repeat;
+	background-image: url('../media/nss logo.png') ;
+	margin: 10px 15px 10px 0;
 	width: 150px;
 	height: 150px;
-	margin: 10px 15px 10px 0;
-}
+	background-position: center;
+	background-size: 150px 150px;
+	ba
+	}
