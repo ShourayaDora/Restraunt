@@ -10,9 +10,7 @@ body{
 	border: 0;
 }
 #logo-img{
-	background-image: url('../media/nss logo.png');
+	background-image: url('../media/spongebob_11_150x150_png_by_somemilk.png');
 	width: 150px;
 	height:150px;
-	background-size: 100px 100px;
-	background-position: center;
 	}
