@@ -354,7 +354,7 @@ template {
   display: none;
 }
 
-[hidden] {
+[hidden]{
   display: none !important;
 }
 
@@ -4856,6 +4856,7 @@ input[type="button"].btn-block {
   padding-right: 0;
   padding-left: 0;
   border-radius: 0;
+	 background-color: #e9ecef;
 }
 
 .alert {
